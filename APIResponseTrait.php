@@ -1,6 +1,6 @@
 <?php
 
-namespace AIEMembers\Http\Controllers\Traits;
+namespace App\Http\Controllers\Traits;
 
 trait ApiResponseTrait {
 
